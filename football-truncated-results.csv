@@ -1,0 +1,181 @@
+season,team,elites,league_position,talent_position
+'10-11',Chelsea,10,2,1
+'10-11',Manchester United,9,1,2
+'10-11',Arsenal,5,4,3
+'10-11',Liverpool,3,6,4
+'10-11',Tottenham,3,5,5
+'10-11',Everton,3,7,6
+'10-11',Manchester City,3,3,7
+'10-11',Aston Villa,2,9,8
+'10-11',Blackburn,1,15,9
+'10-11',Wigan,1,16,10
+'10-11',Wolverhampton Wanderers,0,17,11
+'10-11',Stoke,0,13,12
+'10-11',Bolton,0,14,13
+'10-11',Fulham,0,8,14
+'10-11',Birmingham,0,18,15
+'10-11',Sunderland,0,10,16
+'10-11',West Ham,0,20,17
+'10-11',West Bromwich Albion,0,11,18
+'10-11',Blackpool,0,19,19
+'10-11',Newcastle United,0,12,20
+'11-12',Chelsea,8,6,1
+'11-12',Manchester United,6,2,2
+'11-12',Tottenham,6,4,3
+'11-12',Liverpool,5,8,4
+'11-12',Manchester City,5,1,5
+'11-12',Arsenal,3,3,6
+'11-12',Bolton,3,18,7
+'11-12',Fulham,2,9,8
+'11-12',Wigan,1,15,9
+'11-12',Queens Park Rangers,1,17,10
+'11-12',Blackburn,1,19,11
+'11-12',Wolverhampton Wanderers,0,20,12
+'11-12',Stoke,0,14,13
+'11-12',Everton,0,7,14
+'11-12',West Bromwich Albion,0,10,15
+'11-12',Newcastle United,0,5,16
+'11-12',Sunderland,0,13,17
+'11-12',Aston Villa,0,16,18
+'11-12',Swansea,0,11,19
+'11-12',Norwich,0,12,20
+'12-13',Manchester United,12,1,1
+'12-13',Manchester City,7,2,2
+'12-13',Tottenham,6,5,3
+'12-13',Liverpool,2,7,4
+'12-13',Arsenal,2,4,5
+'12-13',Newcastle United,2,16,6
+'12-13',Chelsea,2,3,7
+'12-13',Everton,1,6,8
+'12-13',West Bromwich Albion,1,8,9
+'12-13',Queens Park Rangers,1,20,10
+'12-13',Stoke,1,13,11
+'12-13',Sunderland,0,17,12
+'12-13',Wigan,0,18,13
+'12-13',Norwich,0,11,14
+'12-13',Fulham,0,12,15
+'12-13',Aston Villa,0,15,16
+'12-13',Swansea,0,9,17
+'12-13',West Ham,0,10,18
+'12-13',Southampton,0,14,19
+'12-13',Reading,0,19,20
+'13-14',Manchester United,8,7,1
+'13-14',Liverpool,6,2,2
+'13-14',Tottenham,4,6,3
+'13-14',Everton,4,5,4
+'13-14',Arsenal,3,4,5
+'13-14',Chelsea,3,3,6
+'13-14',Fulham,3,19,7
+'13-14',Manchester City,2,1,8
+'13-14',Newcastle United,2,10,9
+'13-14',West Ham,1,13,10
+'13-14',Swansea,1,12,11
+'13-14',Aston Villa,1,15,12
+'13-14',Southampton,1,8,13
+'13-14',Norwich,1,18,14
+'13-14',Stoke,0,9,15
+'13-14',West Bromwich Albion,0,17,16
+'13-14',Sunderland,0,14,17
+'13-14',Crystal Palace,0,11,18
+'13-14',Hull,0,16,19
+'13-14',Cardiff,0,20,20
+'14-15',Manchester City,8,2,1
+'14-15',Liverpool,6,6,2
+'14-15',Arsenal,6,3,3
+'14-15',Chelsea,6,1,4
+'14-15',Everton,6,11,5
+'14-15',Manchester United,2,4,6
+'14-15',Crystal Palace,2,10,7
+'14-15',Hull,1,18,8
+'14-15',Aston Villa,1,17,9
+'14-15',Stoke,0,9,10
+'14-15',Tottenham,0,5,11
+'14-15',West Bromwich Albion,0,13,12
+'14-15',West Ham,0,12,13
+'14-15',Sunderland,0,16,14
+'14-15',Swansea,0,8,15
+'14-15',Southampton,0,7,16
+'14-15',Newcastle United,0,15,17
+'14-15',Queens Park Rangers,0,20,18
+'14-15',Burnley,0,19,19
+'14-15',Leicester,0,14,20
+'15-16',Manchester United,8,5,1
+'15-16',Arsenal,7,2,2
+'15-16',Manchester City,7,4,3
+'15-16',Chelsea,6,10,4
+'15-16',West Ham,3,7,5
+'15-16',Everton,2,11,6
+'15-16',Tottenham,2,3,7
+'15-16',Swansea,2,12,8
+'15-16',Crystal Palace,1,15,9
+'15-16',Leicester,1,1,10
+'15-16',West Bromwich Albion,1,14,11
+'15-16',Liverpool,1,8,12
+'15-16',Newcastle United,0,18,13
+'15-16',Stoke,0,9,14
+'15-16',Southampton,0,6,15
+'15-16',Sunderland,0,17,16
+'15-16',Aston Villa,0,20,17
+'15-16',Norwich,0,19,18
+'15-16',Watford,0,13,19
+'15-16',Bournemouth,0,16,20
+'16-17',Arsenal,7,5,1
+'16-17',Manchester City,7,3,2
+'16-17',Tottenham,5,2,3
+'16-17',Leicester,4,12,4
+'16-17',West Ham,4,11,5
+'16-17',Southampton,2,8,6
+'16-17',Crystal Palace,2,14,7
+'16-17',Everton,2,7,8
+'16-17',Liverpool,2,4,9
+'16-17',Chelsea,1,1,10
+'16-17',Watford,1,17,11
+'16-17',Sunderland,1,20,12
+'16-17',Manchester United,1,6,13
+'16-17',Bournemouth,0,9,14
+'16-17',West Bromwich Albion,0,10,15
+'16-17',Stoke,0,13,16
+'16-17',Swansea,0,15,17
+'16-17',Burnley,0,16,18
+'16-17',Middlesbrough,0,19,19
+'16-17',Hull,0,18,20
+'17-18',Manchester United,6,2,1
+'17-18',Liverpool,6,4,2
+'17-18',Tottenham,5,3,3
+'17-18',Manchester City,5,1,4
+'17-18',Chelsea,4,5,5
+'17-18',Arsenal,4,6,6
+'17-18',Crystal Palace,2,11,7
+'17-18',West Ham,2,13,8
+'17-18',Everton,2,8,9
+'17-18',Southampton,1,17,10
+'17-18',Leicester,1,9,11
+'17-18',Bournemouth,0,12,12
+'17-18',West Bromwich Albion,0,20,13
+'17-18',Burnley,0,7,14
+'17-18',Swansea,0,18,15
+'17-18',Watford,0,14,16
+'17-18',Stoke,0,19,17
+'17-18',Brighton,0,15,18
+'17-18',Huddersfield,0,16,19
+'17-18',Newcastle United,0,10,20
+'18-19',Manchester City,9,1,1
+'18-19',Manchester United,6,6,2
+'18-19',Arsenal,6,5,3
+'18-19',Liverpool,4,2,4
+'18-19',Tottenham,4,4,5
+'18-19',Chelsea,4,3,6
+'18-19',Crystal Palace,3,12,7
+'18-19',Burnley,2,15,8
+'18-19',Brighton,1,17,9
+'18-19',Leicester,1,9,10
+'18-19',Everton,1,8,11
+'18-19',Newcastle United,0,13,12
+'18-19',Watford,0,11,13
+'18-19',Bournemouth,0,14,14
+'18-19',West Ham,0,10,15
+'18-19',Huddersfield,0,20,16
+'18-19',Southampton,0,16,17
+'18-19',Fulham,0,19,18
+'18-19',Cardiff,0,18,19
+'18-19',Wolverhampton Wanderers,0,7,20
