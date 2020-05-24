@@ -1,0 +1,181 @@
+season,team,position,points
+10-11,Manchester United,1,80
+10-11,Chelsea,2,71
+10-11,Manchester City,3,71
+10-11,Arsenal,4,68
+10-11,Tottenham,5,62
+10-11,Liverpool,6,58
+10-11,Everton,7,54
+10-11,Fulham,8,49
+10-11,Aston Villa,9,48
+10-11,Sunderland,10,47
+10-11,West Bromwich Albion,11,47
+10-11,Newcastle United,12,46
+10-11,Stoke,13,46
+10-11,Bolton,14,46
+10-11,Blackburn,15,43
+10-11,Wigan,16,42
+10-11,Wolverhampton Wanderers,17,40
+10-11,Birmingham,18,39
+10-11,Blackpool,19,39
+10-11,West Ham,20,33
+11-12,Manchester City,1,89
+11-12,Manchester United,2,89
+11-12,Arsenal,3,70
+11-12,Tottenham,4,69
+11-12,Newcastle United,5,65
+11-12,Chelsea,6,64
+11-12,Everton,7,56
+11-12,Liverpool,8,52
+11-12,Fulham,9,52
+11-12,West Bromwich Albion,10,47
+11-12,Swansea,11,47
+11-12,Norwich,12,47
+11-12,Sunderland,13,45
+11-12,Stoke,14,45
+11-12,Wigan,15,43
+11-12,Aston Villa,16,38
+11-12,Queens Park Rangers,17,37
+11-12,Bolton,18,36
+11-12,Blackburn,19,31
+11-12,Wolverhampton Wanderers,20,25
+12-13,Manchester United,1,89
+12-13,Manchester City,2,78
+12-13,Chelsea,3,75
+12-13,Arsenal,4,73
+12-13,Tottenham,5,72
+12-13,Everton,6,63
+12-13,Liverpool,7,61
+12-13,West Bromwich Albion,8,49
+12-13,Swansea,9,46
+12-13,West Ham,10,46
+12-13,Norwich,11,44
+12-13,Fulham,12,43
+12-13,Stoke,13,42
+12-13,Southampton,14,41
+12-13,Aston Villa,15,41
+12-13,Newcastle United,16,41
+12-13,Sunderland,17,39
+12-13,Wigan,18,36
+12-13,Reading,19,28
+12-13,Queens Park Rangers,20,25
+13-14,Manchester City,1,86
+13-14,Liverpool,2,84
+13-14,Chelsea,3,82
+13-14,Arsenal,4,79
+13-14,Everton,5,72
+13-14,Tottenham,6,69
+13-14,Manchester United,7,64
+13-14,Southampton,8,56
+13-14,Stoke,9,50
+13-14,Newcastle United,10,49
+13-14,Crystal Palace,11,45
+13-14,Swansea,12,42
+13-14,West Ham,13,40
+13-14,Sunderland,14,38
+13-14,Aston Villa,15,38
+13-14,Hull,16,37
+13-14,West Bromwich Albion,17,36
+13-14,Norwich,18,33
+13-14,Fulham,19,32
+13-14,Cardiff,20,30
+14-15,Chelsea,1,87
+14-15,Manchester City,2,79
+14-15,Arsenal,3,75
+14-15,Manchester United,4,70
+14-15,Tottenham,5,64
+14-15,Liverpool,6,62
+14-15,Southampton,7,60
+14-15,Swansea,8,56
+14-15,Stoke,9,54
+14-15,Crystal Palace,10,48
+14-15,Everton,11,47
+14-15,West Ham,12,47
+14-15,West Bromwich Albion,13,44
+14-15,Leicester,14,41
+14-15,Newcastle United,15,39
+14-15,Sunderland,16,38
+14-15,Aston Villa,17,38
+14-15,Hull,18,35
+14-15,Burnley,19,33
+14-15,Queens Park Rangers,20,30
+15-16,Leicester,1,81
+15-16,Arsenal,2,71
+15-16,Tottenham,3,70
+15-16,Manchester City,4,66
+15-16,Manchester United,5,66
+15-16,Southampton,6,63
+15-16,West Ham,7,62
+15-16,Liverpool,8,60
+15-16,Stoke,9,51
+15-16,Chelsea,10,50
+15-16,Everton,11,47
+15-16,Swansea,12,47
+15-16,Watford,13,45
+15-16,West Bromwich Albion,14,43
+15-16,Crystal Palace,15,42
+15-16,Bournemouth,16,42
+15-16,Sunderland,17,39
+15-16,Newcastle United,18,37
+15-16,Norwich,19,34
+15-16,Aston Villa,20,17
+16-17,Chelsea,1,93
+16-17,Tottenham,2,86
+16-17,Manchester City,3,78
+16-17,Liverpool,4,76
+16-17,Arsenal,5,75
+16-17,Manchester United,6,69
+16-17,Everton,7,61
+16-17,Southampton,8,46
+16-17,Bournemouth,9,46
+16-17,West Bromwich Albion,10,45
+16-17,West Ham,11,45
+16-17,Leicester,12,44
+16-17,Stoke,13,44
+16-17,Crystal Palace,14,41
+16-17,Swansea,15,41
+16-17,Burnley,16,40
+16-17,Watford,17,40
+16-17,Hull,18,34
+16-17,Middlesbrough,19,28
+16-17,Sunderland,20,24
+17-18,Manchester City,1,100
+17-18,Manchester United,2,81
+17-18,Tottenham,3,77
+17-18,Liverpool,4,75
+17-18,Chelsea,5,70
+17-18,Arsenal,6,63
+17-18,Burnley,7,54
+17-18,Everton,8,49
+17-18,Leicester,9,47
+17-18,Newcastle United,10,44
+17-18,Crystal Palace,11,44
+17-18,Bournemouth,12,44
+17-18,West Ham,13,42
+17-18,Watford,14,41
+17-18,Brighton,15,40
+17-18,Huddersfield,16,37
+17-18,Southampton,17,36
+17-18,Swansea,18,33
+17-18,Stoke,19,33
+17-18,West Bromwich Albion,20,31
+18-19,Manchester City,1,98
+18-19,Liverpool,2,97
+18-19,Chelsea,3,72
+18-19,Tottenham,4,71
+18-19,Arsenal,5,70
+18-19,Manchester United,6,66
+18-19,Wolverhampton Wanderers,7,57
+18-19,Everton,8,54
+18-19,Leicester,9,52
+18-19,West Ham,10,52
+18-19,Watford,11,50
+18-19,Crystal Palace,12,49
+18-19,Newcastle United,13,45
+18-19,Bournemouth,14,45
+18-19,Burnley,15,40
+18-19,Southampton,16,39
+18-19,Brighton,17,36
+18-19,Cardiff,18,34
+18-19,Fulham,19,26
+18-19,Huddersfield,20,16
