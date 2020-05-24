@@ -1,1 +1,10 @@
 # SportsAnalyticsResearch
+The purpose of this thesis is to explore the relationship between talent and achievement in both football and basketball, and to assess whether the achievement of teams suffers when they are made up of a high number of elite talents.
+
+In order to assess the relationship between talent and achievement in football, the correlation of talent positions, calculated primarily by considering the number of elite talents in each team based on WhoScored Performance Ratings, with the finishing positions of teams in the Premier League in the nine seasons between 2010/2011 and 2018/2019 was investigated. 
+
+Furthermore, in order to assess the relationship between talent and achievement in basketball, the correlation of talent positions, calculated primarily by considering the number of elite talents in each team based on Player Efficiency Ratings (PER), with the finishing positions of teams in the NBA Regular Season in the Expanded Table of their conferences in the nine seasons between 2010/2011 and 2018/2019 was investigated. 
+
+The results indicated that the top 3 most talented football teams per season tended to do best in terms of achievement, while also showing a clear gap in achievement between the top 6 teams when compared to the rest of the league. Meanwhile, the most talented football team per season tended to finish higher in the league than 95% of the remaining teams. A Pearson correlation of 65.7% was found between talent position and league position, indicating a somewhat strong positive correlation between the two. 
+
+Furthermore, the results indicated that the top 4 most talented basketball teams per season tended to do best in terms of achievement, while also showing a clear gap in achievement between the top 4 teams when compared to the rest of the league, aside for a single outlier. Meanwhile, the most talented basketball team per season tended to finish higher in the league than 93% of the remaining teams. A Pearson correlation of 57.8% was found between talent position and league position, indicating a somewhat strong positive correlation between the two.
