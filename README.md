@@ -1,5 +1,5 @@
 # Bachelor Thesis: Sport Analytics
-**Author**: Giorgio Hajimichael
+**Author**: Giοrgiο Hajimichael
 
 **Supervisor**: Dr. Ioannis Katakis
 
