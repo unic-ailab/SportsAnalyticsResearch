@@ -1,3 +1,8 @@
+# IMPORTANT NOTE for running the program:
+# Please download the files "basketball-player-data.csv" and "basketball-table-data.csv" from here: https://github.com/unic-ailab/SportsAnalyticsResearch/tree/master/Basketball/input
+# Then, create a folder called "input" which should be located in the same folder that you are running this program ("NBAAnalyzer.py") from, and move the two downloaded files into that folder
+# Also, the program will create an "ouput" directory by itself after being executed and it will contain two files with results (one extended, and one truncated)
+
 import csv
 import numpy as np
 from numpy import genfromtxt
