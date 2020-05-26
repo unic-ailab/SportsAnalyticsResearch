@@ -1,3 +1,11 @@
+# IMPORTANT NOTE for running the program:
+# Please download the files "football-player-data.csv" and "football-table-data.csv" 
+# from here: https://github.com/unic-ailab/SportsAnalyticsResearch/tree/master/Football/input
+# Then, create a folder called "input" which should be located in the same folder 
+# that you are running this program ("PLanalyzer.py") from, and move the two downloaded files into that folder
+# Also, the program will create an "output" directory by itself after being executed and 
+# it will contain two files with results (one extended, and one truncated)
+
 import csv
 import numpy as np
 from numpy import genfromtxt
