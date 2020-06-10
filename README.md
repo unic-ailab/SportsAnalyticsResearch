@@ -1,4 +1,4 @@
-# Bachelor Thesis: Sport Analytics
+# Bachelor Thesis: The Correlation between Individual Talent and Team Achievement: A data-driven approach
 **Author**: Giοrgiο Hajimichael
 
 **Supervisor**: Dr. Ioannis Katakis
@@ -79,5 +79,8 @@ Furthermore, in order to assess the relationship between talent and achievement 
 
 The results indicated that the top 3 most talented football teams per season tended to do best in terms of achievement, while also showing a clear gap in achievement between the top 6 teams when compared to the rest of the league. Meanwhile, the most talented football team per season tended to finish higher in the league than 95% of the remaining teams. A Pearson correlation of 65.7% was found between talent position and league position, indicating a somewhat strong positive correlation between the two. 
 
-Furthermore, the results indicated that the top 4 most talented basketball teams per season tended to do best in terms of achievement, while also showing a clear gap in achievement between the top 4 teams when compared to the rest of the league, aside for a single outlier. Meanwhile, the most talented basketball team per season tended to finish higher in the league than 93% of the remaining teams. A Pearson correlation of 57.8% was found between talent position and league position, indicating a somewhat strong positive correlation between the two.
+Furthermore, the results indicated that the top 4 most talented basketball teams per season tended to do best in terms of achievement, while also showing a clear gap in achievement between the top 4 teams when compared to the rest of the league, aside for a single outlier. Meanwhile, the most talented basketball team per season tended to finish higher in the league than 93% of the remaining teams. A Pearson correlation of 57.8% was found between talent position and league position, indicating a positive correlation between the two.
+
+It can be argued that the fact that the Pearson correlation between talent position and league position was 65.7% in football while it was 57.8% in basketball could be influenced by the fact that in basketball, there can be no more than five players on the field for each team at any given time, whereas in football, there can be no more than eleven. This suggests that a clash between two elite players in basketball could be more influential than a clash between two elite players in football because two basketball player account for 40% of the team on the field, whereas two football players account for 18% of the team on the field.
+
 
